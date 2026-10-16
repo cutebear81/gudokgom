@@ -25,7 +25,7 @@ iPhone 설정 > 알림 > 구독곰에서 알림이 허용되어 있는지 확인
 
 ## 문의
 
-- 이메일: contact@tonyne.kr
+- 이메일: help@tonyne.kr
 - 제작: 토니네 (www.tonyne.kr)
 
 문의하실 때 iPhone 모델, iOS 버전, 앱 버전(설정 화면 아래)을 함께 알려주시면 빠르게 도와드릴 수 있습니다.

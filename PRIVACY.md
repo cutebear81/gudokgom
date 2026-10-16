@@ -67,5 +67,5 @@
 
 ## 12. 문의
 
-- 이메일: **contact@tonyne.kr**
+- 이메일: **help@tonyne.kr**
 - 제작: 토니네 (www.tonyne.kr)
